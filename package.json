@@ -1,0 +1,23 @@
+{
+  "name": "js-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringTasks.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eapenzacharias/js-unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eapenzacharias/js-unit-testing/issues"
+  },
+  "homepage": "https://github.com/eapenzacharias/js-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
