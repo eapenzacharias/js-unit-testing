@@ -1,4 +1,4 @@
-const stringTasks = require('./stringTasks.js');
+const stringTasks = require('./strings.js');
 
 test('String length is greater than or eqaul to 1', () => {
   expect(stringTasks.stringLength('H')).toBeGreaterThanOrEqual(1);

@@ -2,10 +2,10 @@
   "name": "js-unit-testing",
   "version": "1.0.0",
   "description": "",
-  "main": "stringTasks.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest",
-    "watch": "jest --watch"
+    "watch": "jest --watchAll"
   },
   "repository": {
     "type": "git",
